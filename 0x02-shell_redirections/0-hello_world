@@ -1,3 +1,2 @@
 #!/bin/bash
 echo "hello world"
-command1 > file1 
